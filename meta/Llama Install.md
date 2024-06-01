@@ -1,5 +1,46 @@
 # LLM Notes
 
+## MindsDB
+
+Run this command to create a Docker container with MindsDB:
+
+```
+docker run --name mindsdb_container -d -p 47334:47334 -p 47335:47335 mindsdb/mindsdb
+```
+
+To persist your models and configurations in the host machine, run
+
+```
+mkdir mdb_data
+docker run --name mindsdb_container -p 47334:47334 -p 47335:47335 -v mdb_data:/root/mdb_storage mindsdb/mindsdb
+```
+
+Now you can access the MindsDB editor by going to `127.0.0.1:47334` in your browser.
+
+## Ollama
+
+Get the readme file [https://github.com/ollama/ollama?tab=readme-ov-file](https://github.com/ollama/ollama?tab=readme-ov-file)
+
+To run with `ollama`:
+
+### Llama3
+
+```
+ollama run llama3
+```
+
+### Mistral
+```
+ollama run mistral
+```
+
+### Code Llama
+```
+ollama run codellama
+```
+
+
+
 ## Meta Llama Installation Guide
 
 You’re all set to start building with Meta Llama
