@@ -1,4 +1,18 @@
-# LLM Notes
+# Overview: All about LLMs
+
+- Updated comparison of popular LLMs [https://chat.lmsys.org/?leaderboard](https://chat.lmsys.org/?leaderboard)
+
+
+
+# 1. Vector Databases
+
+
+
+# 2. LLM Notes
+
+## Overall
+
+- Look here for Ollama vs. LM Studio [https://www.gpu-mart.com/blog/ollama-vs-lm-studio](https://www.gpu-mart.com/blog/ollama-vs-lm-studio)
 
 ## MindsDB
 
