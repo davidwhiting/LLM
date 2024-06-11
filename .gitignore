@@ -1,1 +1,3 @@
 .ollama/models/blobs
+.venv
+venv

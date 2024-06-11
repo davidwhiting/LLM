@@ -38,8 +38,14 @@ And that's it. Retrieval augmented generation has a fancy name and langchain's c
 
 Reference: <https://news.ycombinator.com/item?id=36832572>
 
+## LlamaIndex
 
-### Possible Solutions (Software)
+
+
+## Possible Solutions (Software)
 
 - localGPT can parse PDF into embeddings, see <https://github.com/PromtEngineer/localGPT>.
-- 
+- Try privateGPT
+
+
+ 
