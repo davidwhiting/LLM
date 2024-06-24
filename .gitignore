@@ -1,3 +1,4 @@
 .ollama/models/blobs
+.ipynb_checkpoints
 .venv
 venv

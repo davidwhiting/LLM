@@ -40,7 +40,20 @@ Reference: <https://news.ycombinator.com/item?id=36832572>
 
 ## LlamaIndex
 
+## Vector Databases
 
+### ChromaDB
+
+### Qdrant
+
+Investigate later. Here are some links:
+
+- https://myscale.com/blog/qdrant-vs-chroma-vector-databases-comparison/
+- https://qdrant.tech/pricing/
+- https://qdrant.tech/documentation/quick-start/
+- https://qdrant.tech/documentation/examples/
+- https://qdrant.tech/documentation/tutorials/
+- https://github.com/qdrant/qdrant#usage
 
 ## Possible Solutions (Software)
 
