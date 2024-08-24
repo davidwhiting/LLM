@@ -1,0 +1,7 @@
+The Generative Ollama (generative-ollama) module is a Weaviate module for generating responses based on the data stored in your Weaviate instance. Configurator adds bare ollama container. The api endpoint that should be passed to Weaviate Ollama module configuration is: "http://ollama:11434". It is advised to attach a local volume to Ollama container so that user would not have to download the models one more time. In order to make use of Ollama efficiently it is advised to download a given model prior using it with Weaviate, example: docker exec -i <ollama-container-id> ollama pull llama3
+
+Use configurator for weaviate here:
+
+https://weaviate.io/developers/weaviate/installation/docker-compose#configurator
+
+
