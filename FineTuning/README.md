@@ -63,8 +63,7 @@ MindsDB - Platform for Building AI
 - 10 LangChain Alternatives in 2024 (https://www.vellum.ai/blog/top-langchain-alternatives#:~:text=LlamaIndex%20is%20an%20open%2Dsource,a%20great%20alternetive%20to%20Langchain.)
 - Top 5 Open-Source LangChain Alternatives in 2024 (https://www.e2enetworks.com/blog/top-5-open-source-langchain-alternatives-to-use-in-2024)
 - LangChain Vs. LlamaIndex: Main Differences (https://addepto.com/blog/langchain-vs-llamaindex-main-differences/#:~:text=LangChain%20excels%20at%20offering%20flexibility,retrieval%20and%20generating%20concise%20responses.)
-- https://www.superannotate.com/blog/llm-fine-tuning
-
+- Fine-tuning large language models (LLMs) in 2024 (https://www.superannotate.com/blog/llm-fine-tuning)
 
 ## References
 
@@ -87,12 +86,19 @@ This may be worth investing in. It does make a lot convenient.
   * https://claude.ai/chat/
   * Claude 3 (Sonnet): https://www.anthropic.com/news/claude-3-family
 - Google Gemini: https://gemini.google.com/app
-- https://rohanpaul.substack.com/p/reinforcement-learning-from-human (Reinforcement Learning from Human Feedback (RLHF) in Practice: A Deep Dive)
+
 - https://deeperinsights.com/ai-blog/harnessing-the-power-of-lora-in-large-language-models-a-deep-dive-into-the-future-of-ai#:~:text=Low%2DRank%20Adaptation%20(LoRA)%20is%20a%20technique%20designed%20to,parts%20of%20the%20neural%20network
   + HARNESSING THE POWER OF LORA IN LARGE LANGUAGE MODELS: A DEEP DIVE INTO THE FUTURE OF AI
 
 
+## RLHF
+
+- https://rohanpaul.substack.com/p/reinforcement-learning-from-human (Reinforcement Learning from Human Feedback (RLHF) in Practice: A Deep Dive)
+
+
+
 ## Forked GitHub Repos
+- https://github.com/davidwhiting/graphrag (Microsoft GraphRAG)
 - https://github.com/davidwhiting/llama_index
 - https://github.com/davidwhiting/mlx-examples (Apple Silicon ML & LLM)
 - https://github.com/davidwhiting/DocsGPT (a RAG implementation)
@@ -177,13 +183,17 @@ Forked to https://github.com/davidwhiting/llama_index
 
 - Ollama Embeddings
   * https://docs.llamaindex.ai/en/stable/examples/embeddings/ollama_embedding/
+
 - Vector store integrations with Elasticsearch
   * https://llamahub.ai/l/vector_stores/llama-index-vector-stores-elasticsearch?from=vector_stores
+
 - **RAG CLI**
   * https://docs.llamaindex.ai/en/stable/getting_started/starter_tools/rag_cli/
+
 - **SimpleDirectoryReader**
   * https://docs.llamaindex.ai/en/stable/module_guides/loading/simpledirectoryreader/
   * Read multiple file types for RAG input
+
 - Starter Tools
   * https://docs.llamaindex.ai/en/stable/getting_started/starter_tools/
   * Open-source tools to bootstrap Generative AI projects

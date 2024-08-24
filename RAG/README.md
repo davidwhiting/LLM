@@ -1,5 +1,29 @@
 # Building a RAG
 
+## Libraries
+
+### Langchain
+
+### LlamaIndex
+
+## Recipes:
+
+- Ollama + Llama 3 + LlamaIndex + ChromaDB + snowflake-arctic-embed 
+
+- pgvector instead?
+
+## Vector Database Options
+
+### Chromadb
+
+### 
+
+
+## Embeddings Options
+
+- snowflake-arctic-embed
+
+
 ## Option 1: PrivateGPT
 
 ## Components: Vector Database

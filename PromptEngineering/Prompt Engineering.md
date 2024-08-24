@@ -6,7 +6,7 @@
 
 ### Notes from Forbes
 
-[https://www.forbes.com/sites/lanceeliot/2023/12/28/must-read-best-of-practical-prompt-engineering-strategies-to-become-a-skillful-prompting-wizard-in-generative-ai/?sh=296cc86b19cd](https://www.forbes.com/sites/lanceeliot/2023/12/28/must-read-best-of-practical-prompt-engineering-strategies-to-become-a-skillful-prompting-wizard-in-generative-ai/?sh=296cc86b19cd)
+- [https://www.forbes.com/sites/lanceeliot/2023/12/28/must-read-best-of-practical-prompt-engineering-strategies-to-become-a-skillful-prompting-wizard-in-generative-ai/?sh=296cc86b19cd](https://www.forbes.com/sites/lanceeliot/2023/12/28/must-read-best-of-practical-prompt-engineering-strategies-to-become-a-skillful-prompting-wizard-in-generative-ai/?sh=296cc86b19cd)
 
 Advice:
 
